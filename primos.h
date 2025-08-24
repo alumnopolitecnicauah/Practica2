@@ -1,2 +1,1 @@
-// Fichero de inclusion asociado al fichero primos.c
-uint8_t esprimo(unsigned short int);
+uint8_t esprimo(uint16_t);
